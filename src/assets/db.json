@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Perfume 1",
+            "description": "A wonderful perfume",
+            "price": 25.99,
+            "image": "banner1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Perfume 2",
+            "description": "Another great perfume",
+            "price": 18.99,
+            "image": "chanel coco mademoiselle intense edp.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Perfume 3",
+            "description": "An amazing perfume",
+            "price": 32.99,
+            "image": "Cream and Brown Photographic Beauty Site Launch Website.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Perfume 4",
+            "description": "Another great perfume",
+            "price": 18.99,
+            "image": "chanel coco mademoiselle intense edp.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Perfume 5",
+            "description": "Another great perfume",
+            "price": 18.99,
+            "image": "chanel coco mademoiselle intense edp.jpg"
+        }
+    ]
+}
