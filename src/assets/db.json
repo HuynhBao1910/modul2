@@ -2,38 +2,163 @@
     "products": [
         {
             "id": 1,
-            "title": "Perfume 1",
-            "description": "A wonderful perfume",
+            "title": "Acqua di Giò Absolu Eau de Parfum",
+            "description": "A wonderful perfume for men",
             "price": 25.99,
-            "image": "banner1.jpg"
+            "image": "acqua di giò absolu eau de parfum.jpg",
+            "gender": "men"
         },
         {
             "id": 2,
-            "title": "Perfume 2",
-            "description": "Another great perfume",
+            "title": "Burberry Brit Rhythm For Him",
+            "description": "Another great perfume for men",
             "price": 18.99,
-            "image": "chanel coco mademoiselle intense edp.jpg"
+            "image": "Burberry-Brit-Rhythm-For-Him-100ml-270x320.jpg",
+            "gender": "men"
         },
         {
             "id": 3,
-            "title": "Perfume 3",
-            "description": "An amazing perfume",
+            "title": "Creed Aventus Eau de Parfum",
+            "description": "An amazing perfume for men",
             "price": 32.99,
-            "image": "Cream and Brown Photographic Beauty Site Launch Website.jpg"
+            "image": "creed aventus by creed.jpg",
+            "gender": "men"
         },
         {
             "id": 4,
-            "title": "Perfume 4",
-            "description": "Another great perfume",
+            "title": "Chanel No. 5 Eau de Parfum",
+            "description": "Another great perfume for women",
             "price": 18.99,
-            "image": "chanel coco mademoiselle intense edp.jpg"
+            "image": "chanel No 5 edp.jpg",
+            "gender": "women"
         },
         {
             "id": 5,
-            "title": "Perfume 5",
-            "description": "Another great perfume",
+            "title": "Dior J'adore Eau de Parfum",
+            "description": "Another great perfume for women",
             "price": 18.99,
-            "image": "chanel coco mademoiselle intense edp.jpg"
+            "image": "dior J'adore.jpg",
+            "gender": "women"
+        },
+        {
+            "id": 6,
+            "title": "Gucci A Song for the Rose Eau de Parfum",
+            "description": "Another great perfume for women",
+            "price": 18.99,
+            "image": "gucci a song for the rose eau de parfum.jpg",
+            "gender": "women"
+        },
+        {
+            "id": 7,
+            "title": "Dior Sauvage Eau de Toilette",
+            "description": "A wonderful perfume for men",
+            "price": 18.99,
+            "image": "dior sauvage.jpg",
+            "gender": "men"
+        },
+        {
+            "id": 8,
+            "title": "Jean Paul Gaultier Le Male Eau de Toilette",
+            "description": "Another great perfume for men",
+            "price": 18.99,
+            "image": "jean paul gaultier.jpg",
+            "gender": "men"
+        },
+        {
+            "id": 9,
+            "title": "Creed Aventus Eau de Parfum",
+            "description": "Another amazing perfume for men",
+            "price": 18.99,
+            "image": "creed aventus by creed.jpg",
+            "gender": "men"
+        },
+        {
+            "id": 10,
+            "title": "Dior Miss Dior Rose N'Roses Eau de Toilette",
+            "description": "Another great perfume for women",
+            "price": 18.99,
+            "image": "dior miss dior rose.jpg",
+            "gender": "women"
+        },
+        {
+            "id": 11,
+            "title": "Gucci Guilty Black Pour Homme Eau de Toilette",
+            "description": "A wonderful perfume for men",
+            "price": 18.99,
+            "image": "gucci guilty black pour homme.jpg",
+            "gender": "men"
+        },
+        {
+            "id": 12,
+            "title": "Gucci Guilty Eau de Toilette",
+            "description": "Another great perfume for men",
+            "price": 18.99,
+            "image": "gucci guilty for men.jpg",
+            "gender": "men"
+        },
+        {
+            "id": 13,
+            "title": "Gucci Made to Measure Eau de Toilette",
+            "description": "Another great perfume for men",
+            "price": 18.99,
+            "image": "gucci made to measure eau de toilette.jpg",
+            "gender": "men"
+        },
+        {
+            "id": 14,
+            "title": "Kilian Good girl gone Bad Eau de Parfum",
+            "description": "Another great perfume for women",
+            "price": 18.99,
+            "image": "kilian good girl gone bad.jpg",
+            "gender": "women"
+        },
+        {
+            "id": 15,
+            "title": "Versace Dylan Blue Eau de Toilette",
+            "description": "A wonderful perfume for men",
+            "price": 18.99,
+            "image": "Versace-Dylan-Blue-50ml-270x320.jpg",
+            "gender": "men"
+        },
+        {
+            "id": 16,
+            "title": "Viktor & Rolf Flowerbomb Eau de Parfum",
+            "description": "Another great perfume for women",
+            "price": 18.99,
+            "image": "viktor & rolf flowerbomb.jpg",
+            "gender": "women"
+        },
+        {
+            "id": 17,
+            "title": "YSL Black Opium Eau de Parfum",
+            "description": "Another great perfume for women",
+            "price": 18.99,
+            "image": "ysl black opium.jpg",
+            "gender": "women"
+        },
+        {
+            "id": 18,
+            "title": "Yves Saint Laurent Y Eau de Toilette",
+            "description": "A wonderful perfume for men",
+            "price": 18.99,
+            "image": "yves saint laurent Y.jpg",
+            "gender": "men"
+        },
+        {
+            "id": 19,
+            "title": "Gucci Pour Homme Eau de Toilette",
+            "description": "A great perfume for men",
+            "price": 18.99,
+            "image": "gucci pour homme eau de toilette.jpg",
+            "gender": "men"
+        },
+        {
+            "id": 20,
+            "title": "Lomani AB Spirit Platinum Eau de Toilette",
+            "description": "A great perfume for men",
+            "price": 18.99,
+            "image": "Lomani-AB-Spirit-Platinium-100ml-270x320.jpg",
+            "gender": "men"
         }
     ]
 }
